@@ -2,9 +2,12 @@
   <div class="header">
       <h1>
         <span class="site-title">{{ site.username }}</span>
-        <span class="site-description">{{ site.user_title }}</span>
+        <span class="site-description" id="title-anchor">{{ site.user_title }}</span>
       </h1>
       <div class="header-icons">
+        |{% for page in site.pages %}&nbsp;<strong><a href="{{ page.permalink }}#title-anchor">{{ page.title }}</a></strong>&nbsp;|
+        {% endfor %}
+        
         <!--<a aria-label="Send email" href="mailto:mauriurraco@gmail.com"><i class="icon fa fa-envelope"></i></a>
         <a aria-label="My Instagram" target="_blank" href="https://www.instagram.com/mauriciourraco7"><i class="icon fa fa-instagram" aria-hidden="true"></i></a>
         <a aria-label="My Facebook" target="_blank" href="https://www.facebook.com/mauricio.urraco"><i class="icon fa fa-facebook" aria-hidden="true"></i></a>
