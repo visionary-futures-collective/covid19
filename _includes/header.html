@@ -5,9 +5,10 @@
         <span class="site-description" id="title-anchor">{{ site.user_title }}</span>
       </h1>
       <div class="header-icons">
-        
         {% comment %}
-        |{% for page in site.pages %}&nbsp;<strong><a href="{{ page.permalink }}#title-anchor">{{ page.title }}</a></strong>&nbsp;|
+        {% for page in site.pages | sort:"order"%}
+        {% if page.title != nil %}&nbsp;<strong><a href="{{ page.permalink }}#title-anchor">{{ page.title }}</a></strong>&nbsp;{% unless forloop.last %}| {% endunless%}
+        {% endif %}
         {% endfor %}
         {% endcomment %}
         <!--<a aria-label="Send email" href="mailto:mauriurraco@gmail.com"><i class="icon fa fa-envelope"></i></a>
