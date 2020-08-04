@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID on campuses: a history
-permalink: /history
+permalink: /timeline
 ---
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12Q9u23GJuYgKOqNtnYbdhWGmXkdx-Um-Xx05Xj_rVgY&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
