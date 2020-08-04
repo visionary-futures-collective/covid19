@@ -3,7 +3,11 @@ layout: page
 title: Star Guide
 permalink: /starstruck
 ---
-# August 4, 2020
+
+<img 	src="https://upload.wikimedia.org/wikipedia/commons/f/fc/American_pika_%28ochotona_princeps%29_with_a_mouthful_of_flowers.jpg" 
+		alt="Pika with grass"
+	 	width="150"
+	 	align = "left"/>
 
 How are you all feeling today? 
 
