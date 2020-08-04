@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Star Guide
-permalink: /star-guide
+permalink: /starstruck
 ---
 # August 4, 2020
 
