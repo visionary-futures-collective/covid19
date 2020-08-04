@@ -23,8 +23,6 @@ The Star Guide is one part astrology, one part data collection, three parts soli
 
 Whew, I'm feeling better. Hope you are too.
 
-![Pika with grass](https://upload.wikimedia.org/wikipedia/commons/f/fc/American_pika_%28ochotona_princeps%29_with_a_mouthful_of_flowers.jpg)
-
 # Sign up
 
 Email visionaryfuturescollective@gmail.com to add your name to the list.
