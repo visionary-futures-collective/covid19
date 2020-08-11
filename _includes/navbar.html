@@ -1,0 +1,36 @@
+<!-- <div class="header-icons">
+</div> -->
+
+<nav class="navbar navbar-expand-md navbar-light">
+  <div class="container">
+    <a href="{{ site.baseurl }}/" class="navbar-brand">
+      <div class="d-inline align-middle pl-3 text-primary">Covid-19 Response Tracker</div>
+    </a>
+    <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav">
+        
+        {% comment %}
+        <li class="nav-item">
+          <a href="{{ site.baseurl }}/" class="nav-link">Home</a>
+        </li>
+
+        {% for page in site.pages | sort:"order"%}
+        {% if page.title != nil %}&nbsp;<strong><a href="{{ page.permalink }}">{{ page.title }}</a></strong>
+        {% endif %}
+        {% endfor %}
+        {% endcomment%}
+        
+
+        <li class="nav-item">
+          <a href="{{ site.baseurl }}/resources/" class="nav-link">Resources</a>
+        </li>
+        <li class="nav-item">
+          <a href="{{ site.baseurl }}/starstruck/" class="nav-link">Star Guide</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
