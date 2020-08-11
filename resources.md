@@ -3,11 +3,11 @@ layout: page
 title: Resources
 permalink: /resources
 ---
-# The College Crisis
+## The College Crisis
 
 Since the start of the pandemic, a wide array of organizations have been tracking the spread of the disease and its impact on various industries. The intersection of the COVID-19 pandemic and university studies has led to interesting work, including data-based analyses of reopening plans and digital storytelling such as a choose-your-own-adventure game. 
 
-# Visualizing the Return to Campus at Scale
+## Visualizing the Return to Campus at Scale
 
 The [Coronavirus Corpus](https://www.english-corpora.org/corona/help/corpus.asp) is designed to be the definitive record of the social, cultural, and economic impact of the COVID in 2020 and beyond. [Covid Tracking](https://covidtracking.com) collects data on the spread of COVID-19. Various websites are [mapping](https://www.covidexitstrategy.org/) the spread of pandemic in the United States.
 
@@ -17,7 +17,7 @@ Inside Higher Ed is tracking [the economic fallout](https://www.insidehighered.c
 
 The [College Crisis Initiative](https://collegecrisis.org/) is an undergraduate intitiative collecting and visualizing data on campus reopenings, focusing on four-year institutions. Their data and visualizations may be the most comprehensive.  
 
-# Bearing Witness and Rewriting the Narrative
+## Bearing Witness and Rewriting the Narrative
 
 [Bearing Witness](https://bearingwitness.github.io/) is an effort to document and interpret the events associated with the novel coronavirus epidemic in the United States as it pertains to racialized minorities. 
 
@@ -25,7 +25,7 @@ The [College Crisis Initiative](https://collegecrisis.org/) is an undergraduate 
 
 For a digital storytelling project exploring the return to campus, check out this [choose-your-own-adventure game](https://caitkirby.com/downloads/Fall%202020.html).
 
-# Advocating for Change and an Alternate Future
+## Advocating for Change and an Alternate Future
 
 Bess Williamson’s [accessibility policy statements](https://sites.google.com/view/accesscampusalliance/home) for return to campus during the pandemic have played a crucial role in many attempts to negotiate with university administrations.
 
@@ -33,6 +33,6 @@ Georgia Tech’s [“COVID-19 Event Risk Planning Tool”](https://covid19risk.b
 
 [Humanist Mutual Aid](https://humanistmutualaid.com/) is an initiative to bring together workers in higher education for mutual support.
 
-# New Projects
+## New and Forthcoming Projects
 
 If you're aware of another project studying Covid-19's impact on higher education, please write to the visionaryfuturescollective@gmail.com.
