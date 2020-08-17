@@ -15,21 +15,23 @@ navbar{
   box-shadow: 1px 1px 3px #8d021f;
   opacity: 0.8;
   background: $white;
-
   .nav-item{
     font-size: 1.4rem;
     padding-right: 20px;
   }
 }
 
-
+nav{  
+  height: 60px;
+  font-size: 1.25rem;
+}
   
 .navbar{
   padding: 0 0;
 }
 .nav-link {
 
-    color: #7f7f7f !important;
+    color: #007bff !important;
   }
   figure, ol, p, ul{
     margin: 0 0;
