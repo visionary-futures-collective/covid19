@@ -50,10 +50,16 @@ nav div.container{
   flex-grow: 0;
 }
 
+/*Try here for mobile - make the height unfixed*/
 .navbar-toggler-icon{
   background-size: 75% 75%;
   width: 1em;
-  height: 1em;
+}
+
+@media only screen and (min-width: 400px) {
+  .navbar-toggler-icon {
+    height: 1em;
+  }
 }
 
 .navbar-toggler{
