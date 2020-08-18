@@ -20,17 +20,17 @@ The [College Crisis Initiative](https://collegecrisis.org/) is an undergraduate 
 ## Bearing Witness and Rewriting the Narrative
 
 [Bearing Witness](https://bearingwitness.github.io/) is an effort to document and interpret the events associated with the novel coronavirus epidemic in the United States as it pertains to racialized minorities.<br />   
-
+<br />  
 [University of Miami’s digital humanities team](https://covid.dh.miami.edu/team/) is likewise working to shift the narrative on the return to campus.<br />  
-
+<br />  
 For a digital storytelling project exploring the return to campus, check out this [choose-your-own-adventure game](https://caitkirby.com/downloads/Fall%202020.html).<br />  
 
 ## Advocating for Change and an Alternate Future
 
 Bess Williamson’s [accessibility policy statements](https://sites.google.com/view/accesscampusalliance/home) for return to campus during the pandemic have played a crucial role in many attempts to negotiate with university administrations.<br />  
-
+<br />  
 Georgia Tech’s [“COVID-19 Event Risk Planning Tool”](https://covid19risk.biosci.gatech.edu/) also offers useful resources for advocacy.<br />   
-
+<br />  
 [Humanist Mutual Aid](https://humanistmutualaid.com/) is an initiative to bring together workers in higher education for mutual support.<br />  
 
 ## New and Forthcoming Projects
