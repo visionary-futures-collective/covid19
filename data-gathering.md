@@ -11,7 +11,8 @@ Much of the information in this spreadsheet is not publicly available. We encour
 <br />
 If you prefer inputting data into a Google form, we've created a [form]()!<br />
 <br />
-##Instructions for Inputting Data into the Spreadsheet
+## Instructions for Inputting Data into the Spreadsheet
+
 <br />
 If you belong to a higher ed institution that has already released its Fall semester plans, whether internally or through public facing websites, please be sure to add your institution’s information to the spreadsheet!<br />
 <br />
