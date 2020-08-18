@@ -34,8 +34,8 @@ Step 3E: For JOB SECURITY - Answers can include yes, no, maybe, or unknown. Pick
 <br />
 Step 3F: For TRACKING -  Answers can include yes, no, maybe, or unknown. Pick the best fit and if it’s complicated please address this in the notes column.<br />
 <br />
-Step 3G: If this is the first record for this institution, add the current date to the Date Added column. If you are updating an existing entry DO NOT change the date added column and instead put today’s date in the Date Updated column. Examples of changes we want to track include changes in the modes of instruction being o<br />ffered, in allowing instructors to teach remotely, or the institution initiating layoffs.<br />
-
+Step 3G: If this is the first record for this institution, add the current date to the Date Added column. If you are updating an existing entry DO NOT change the date added column and instead put today’s date in the Date Updated column. Examples of changes we want to track include changes in the modes of instruction being offered, in allowing instructors to teach remotely, or the institution initiating layoffs.<br />
+<br />
 Step 3I: You may have already put something in the notes field to clarify previous answers. If you have not, here are some examples of information you could include: 
 Remote options vary by departments and are not institution-wide
 Class sizes (or other factors) trigger an automatic mode-of-delivery decision
