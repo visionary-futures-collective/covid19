@@ -23,11 +23,11 @@ navbar{
 }
 
 nav{  
-  /*height: 60px;*/
   font-size: 1.25rem;
+  background-color
 }
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 750px) {
   nav {
     height: 60px;
   }
