@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data
+title: Data Gathering
 permalink: /data-gathering
 ---
 We are gathering data on nation-wide return to campus plans for fall 2020 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit#gid=1727698265).<br />
