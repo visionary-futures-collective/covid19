@@ -8,12 +8,12 @@ permalink: /timeline
 
 ## #COVIDCampus: The Project
 As the coronavirus spread across the United States and campuses made --- and revised --- their policies for labor and learning, student journalists documented these events and their impact on their local communities. 
-
+<br /> 
 Student newspapers reveal how student life has gone on alongside changes in living and learning, and show how students have joined forces with faculty and staff to fight for their health and their right to learn.
 
 ## #COVIDCampus: The Data
 
 We are building a database of student newspaper reports on COVID-19. [Click here for instructions on how to help us collect data](https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit). 
-
+<br /> 
 You are also welcome to use our data set to make your own timeline (or do your own research). Intructions on how to make a timeline for your campus are forthcoming. Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!
 
