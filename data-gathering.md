@@ -3,7 +3,7 @@ layout: page
 title: Data
 permalink: /data-gathering
 ---
-We are gathering data on nation-wide return to campus plans for fall 2020 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit#gid=1727698265). 
+We are gathering data on nation-wide return to campus plans for fall 2020 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit#gid=1727698265).<br />
 <br />
 This data was originally collected for **advocacy** purposes: Dawn Kaczmar, a PhD candidate at the University of Michigan and member of the Graduate Employees’ Organization (GEO), wanted to track which institutions were giving instructors a remote option, no questions asked. Her own institution was not offering this option, so the GEO presented this list of schools (many that were similar in size, type, or in the same state) to pressure their university to change their policy, which worked. Since joining the Visionary Futures Collective, the data collection has expanded in scope to track many other policy issues around covid. 
 <br />
