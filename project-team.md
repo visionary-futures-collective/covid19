@@ -3,8 +3,7 @@ layout: page
 title: Project Team
 permalink: /project-team
 ---
-## Project team
-<br />  
+
 Alex Galarza<br />  
 Alex Wermer-Colan<br />  
 Amanda Henrichs<br />  
