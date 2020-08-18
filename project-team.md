@@ -3,8 +3,6 @@ layout: page
 title: Project Team
 permalink: /project-team
 ---
-Information about the project team
-
 ## Project team
 <br />  
 Alex Galarza<br />  
