@@ -22,8 +22,14 @@ navbar{
 }
 
 nav{  
-  height: 60px;
+  /*height: 60px;*/
   font-size: 1.25rem;
+}
+
+@media only screen and (min-width: 400px) {
+  nav {
+    height: 60px;
+  }
 }
 
 nav div.container{
@@ -56,8 +62,4 @@ nav div.container{
 
 div#navbarNav.navbar-collapse{
   padding-left: 1rem;
-}
-
-#custom-particles{
-  height: 100px !important;
 }
