@@ -25,7 +25,10 @@ nav{
   height: 60px;
   font-size: 1.25rem;
 }
-  
+
+nav div.container{
+  background-color: white;
+}
 .navbar{
   padding: 0 0;
 }
