@@ -18,6 +18,7 @@ navbar{
   .nav-item{
     font-size: 1.4rem;
     padding-right: 20px;
+    z-index: 10;
   }
 }
 
@@ -29,6 +30,11 @@ nav{
 @media only screen and (min-width: 400px) {
   nav {
     height: 60px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  .navbar-light .navbar-toggler{
+    border: none;
   }
 }
 
