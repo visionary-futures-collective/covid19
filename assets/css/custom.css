@@ -27,11 +27,6 @@ nav{
   background-color
 }
 
-@media only screen and (min-width: 750px) {
-  nav {
-    height: 60px;
-  }
-}
 @media only screen and (max-width: 400px) {
   .navbar-light .navbar-toggler{
     border: none;
@@ -42,7 +37,7 @@ nav div.container{
   background-color: white;
 }
 .navbar{
-  padding: 0 0;
+  padding: 15px;
 }
 .nav-link {
 
