@@ -22,6 +22,6 @@ We aim to use simple maps to tell a bigger story about how campuses are respondi
 
 ## Campus Reopening Data
 
-We use data collected by other projects to tell a bigger story about campus reopening. Learn more about where our data comes from on our resources page.
+We use data collected by other projects to tell a bigger story about campus reopening. Learn more about where our data comes from on our resources page.  
 <br />
 We are also collecting our own data to tell a different story about campus reopening - one that focuses on underaddressed policies of surveillance and exploitation. [View and add to our data set here](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit?usp=sharing).
