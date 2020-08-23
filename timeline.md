@@ -19,14 +19,18 @@ Student newspapers reveal how student life has gone on alongside changes in livi
     <h2>Regional Spotlight:<br> Boston</h2>
     <p>The VFC is building timelines of student news outlets reporting on university plans during the pandemic. We'll be working with student newspaper organizations and advocating for others to create timelines of their student newspapers. Stay tuned for a few timeline examples from around the country, and keep on the lookout for our newsletter!</p>
   </div>
-  <div class="tech">
+<!--   <div class="tech">
     <h2>Join the Project</h2>
     <p>Interested in the data? These projects draw from the #CovidCampus database, a collection of over 700 student newspaper articles about COVID. <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> Learn more about the data here.</a><br><br>
   	You are also welcome to use our data set to make your own timeline (or do your own research). Intructions on how to make a timeline for your campus are forthcoming. Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!</p>
-  </div>
+  </div> -->
 </div>
 
+# Join the Project
+  
+Interested in the data? These projects draw from the #CovidCampus database, a collection of over 700 student newspaper articles about COVID. [Learn more about the data here](https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing).
 
+You are also welcome to use our data set to make your own timeline (or do your own research). Intructions on how to make a timeline for your campus are forthcoming. Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!
 
 
 
