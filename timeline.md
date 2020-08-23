@@ -21,7 +21,7 @@ Student newspapers reveal how student life has gone on alongside changes in livi
   </div>
   <div class="tech">
     <h2>Join the Project</h2>
-    <p>Interested in the data? These projects draw from the #CovidCampus database, a collection of student newspaper articles about COVID. <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> Learn more about the data here.</a><br>
+    <p>Interested in the data? These projects draw from the #CovidCampus database, a collection of over 700 student newspaper articles about COVID. <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> Learn more about the data here.</a><br>
 	You are also welcome to use our data set to make your own timeline (or do your own research). Intructions on how to make a timeline for your campus are forthcoming. Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!</p>
   </div>
 </div>
