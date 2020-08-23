@@ -13,7 +13,7 @@ permalink: /timeline
   <div class="tech">
     <h2>General Timeline: What Happened?</h2>
     	<p><img src="/img/vfc.timeline.wh.png"></p>
-    	<p>This timeline records the events of the coronavirus pandemic and its impact on university students, as told by students themselves. The timeline draws on student newspapers at community colleges, public universities, and liberal arts colleges across the United States to paint a broad picture of how universities responded to the pandemic, and how students have stepped up to support their community during unprecedented times.<p> This timeline is based on articles from the <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> COVID Campus News Database.</a> <p> Designed by Hannah Alpert-Abrams and the VFC</a>.</p> 
+    	<p>This timeline records the events of the coronavirus pandemic and its impact on university students, as told by students themselves. The timeline draws on student newspapers at community colleges, public universities, and liberal arts colleges across the United States to paint a broad picture of how universities responded to the pandemic, and how students have stepped up to support their community during unprecedented times.</p><p> This timeline is based on articles from the <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> COVID Campus News Database.</a> </p><p> Designed by Hannah Alpert-Abrams and the VFC.</p> 
   </div>
   <div class="tech">
     <h2>Regional Spotlight: Boston</h2>
@@ -24,7 +24,7 @@ permalink: /timeline
 	<p>The VFC will be designing and publishing data visualizations with the goal of making visible the shifting discourse around campus closings and reopenings, and the ways that life, labor, and economics are manipulated in the name of access to higher education. </p>
 	<p> Our intention is to map and visualize data that can have an impact on how we approach and manage the Fall 2020 semester.</p>
   </div>
-
+</div>
 
 # #COVIDCampus: The Project
 As the coronavirus spread across the United States and campuses made --- and revised --- their policies for labor and learning, student journalists documented these events and their impact on their local communities. 
