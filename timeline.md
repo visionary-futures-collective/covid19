@@ -7,7 +7,9 @@ permalink: /timeline
   <div class="tech">
     <h2>General Timeline: What Happened?</h2>
     	<p><img src="/img/vfc.timeline.wh.png"></p>
-    	<p>This timeline records the events of the coronavirus pandemic and its impact on university students, as told by students themselves. The timeline draws on student newspapers at community colleges, public universities, and liberal arts colleges across the United States to paint a broad picture of how universities responded to the pandemic, and how students have stepped up to support their community during unprecedented times.</p><p> This timeline is based on articles from the <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> COVID Campus News Database.</a> </p><p> Designed by Hannah Alpert-Abrams and the VFC.</p> 
+    	<p>This timeline records the events of the coronavirus pandemic and its impact on university students, as told by students themselves. The timeline draws on student newspapers at community colleges, public universities, and liberal arts colleges across the United States to paint a broad picture of how universities responded to the pandemic, and how students have stepped up to support their community during unprecedented times.<br>
+    	This timeline is based on articles from the <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing"> COVID Campus News Database.</a> <br>
+    	Designed by Hannah Alpert-Abrams and the VFC. 
   </div>
   <div class="tech">
     <h2>Regional Spotlight: Boston</h2>
