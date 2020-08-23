@@ -3,6 +3,17 @@ layout: page
 title: "COVID on campuses: a history"
 permalink: /timeline
 ---
+<div class="user-details">
+
+<!--   <h1>The project</h1>
+  <p>{{ site.user_description }}</p>
+  <br />
+  <p><strong> Want to join us? <br> We meet weekly on Tuesdays from 4-6PM EST to build community and work together on digital projects.<br>
+  <br> <a href="https://temple.zoom.us/meeting/register/tJEucuqtpj8rGNxbyfBqYJhlDTxSmGz_GDQU">Sign up to join us by Zoom</a>.</strong></p><br>
+  <br />
+  <p>Questions? Tweet at us with #C19VFC. Email us at visionaryfuturescollective@gmail.com.</p> -->
+</div>
+
 <div class="user">
   <div class="tech">
     <h2>General Timeline: What Happened?</h2>
