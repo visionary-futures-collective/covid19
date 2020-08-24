@@ -3,6 +3,8 @@ layout: page
 title: "COVID on campuses: a history"
 permalink: /timeline
 ---
+# About the Project
+
 As the coronavirus spread across the United States and campuses made --- and revised --- their policies for labor and learning, student journalists documented these events and their impact on their local communities. 
 
 Student newspapers reveal how student life has gone on alongside changes in living and learning, and show how students have joined forces with faculty and staff to fight for their health and their right to learn.

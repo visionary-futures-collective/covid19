@@ -3,6 +3,8 @@ layout: page
 title: Mapping COVID
 permalink: /mapping
 ---
+# Mapping
+
 We aim to use simple maps to tell a bigger story about how campuses are responding to the coronavirus across the United States. Our vision? To see all campuses become fully remote in time for the fall 2020 semester.
 
 ## Visualizing Campus Reopenings

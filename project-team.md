@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: About the Project
 permalink: /project-team
 ---
+# Project Principles
 ## Purpose
 * To build solidarity across institutions of higher education in the United States in order to enable collective resistance to campus actions that put our communities at risk.
 * To help university workers redirect their anxieties towards collective action.
