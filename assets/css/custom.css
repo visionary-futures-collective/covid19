@@ -70,3 +70,7 @@ nav div.container{
 div#navbarNav.navbar-collapse{
   padding-left: 1rem;
 }
+
+.page-wrapper p, .user-details p, .tech p {
+margin: 1em 0;
+}

@@ -39,23 +39,24 @@ Our project’s data collection practices are informed by ethical concerns about
 Our approaches to data draw on the work of Documenting The Now and archivists and librarians who are taking concrete actions to center the lives and values of individuals and communities over investments in the historical value of social media content. If you are someone interested in collaborating with the project and you are similarly invested in these approaches, we would be happy to talk with you about ways of expanding or revising our approaches to data.
 
 
-# Project Team
-Alex Galarza<br />  
-Alex Wermer-Colan<br />  
-Amanda Henrichs<br />  
-Brandon Walsh<br />  
-Brian DeGrazia<br />  
-Brian Rosenblum<br />  
-Chesya Burke<br />  
-Dhanashree Thorat<br />  
-Dawn Kaczmar<br />  
-Elizabeth Grumbach<br />  
-Geoffrey Way<br />  
-Hadassah St Hubert<br />  
-Hannah Alpert-Abrams<br />  
-Jim McGrath<br />  
-Matthew Hannah<br />  
-Mimi Winick<br />  
-Quinn Dombrowski<br />  
-Saul Alpert-Abrams<br />  
-Sylvia Fernandez<br />  
+## Project Team
+
+* Alex Galarza
+* Alex Wermer-Colan
+* Amanda Henrichs
+* Brandon Walsh
+* Brian DeGrazia
+* Brian Rosenblum
+* Chesya Burke
+* Dhanashree Thorat
+* Dawn Kaczmar
+* Elizabeth Grumbach
+* Geoffrey Way
+* Hadassah St Hubert
+* Hannah Alpert-Abrams
+* Jim McGrath
+* Matthew Hannah
+* Mimi Winick
+* Quinn Dombrowski
+* Saul Alpert-Abrams
+* Sylvia Fernandez
