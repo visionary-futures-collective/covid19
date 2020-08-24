@@ -3,6 +3,9 @@ layout: page
 title: Data Gathering
 permalink: /data-gathering
 ---
+
+# Data Gathering
+
 We are gathering data on nation-wide return to campus plans for fall 2020 in [this spreadsheet](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit#gid=1727698265).
 
 You can see visualizations of this data on the [Mapping page](https://visionary-futures-collective.github.io/covid19/mapping).
