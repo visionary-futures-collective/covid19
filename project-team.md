@@ -74,5 +74,6 @@ Our approaches to data draw on the work of Documenting The Now and archivists an
 * Matthew Hannah
 * Mimi Winick
 * Quinn Dombrowski
+* Saronik Bosu
 * Saul Alpert-Abrams
 * Sylvia Fernandez
