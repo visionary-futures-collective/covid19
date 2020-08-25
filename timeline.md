@@ -7,7 +7,7 @@ permalink: /timeline
 
 As the coronavirus spread across the United States and campuses made --- and revised --- their policies for labor and learning, student journalists documented these events and their impact on their local communities.  
 
-Student newspapers reveal how student life has gone on alongside changes in living and learning, and show how students have joined forces with faculty and staff to fight for their health and their right to learn.  
+Student newspapers reveal how student life has gone on alongside changes across campus, and show how students have joined forces with faculty and staff to fight for their health and their right to learn.  
 
 Underlying this project is a growing database containing hundreds of news articles written by students around the country. We use timelines to tell a small piece of the story. 
 
