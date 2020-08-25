@@ -22,7 +22,9 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
   </div>
   <div class="tech">
     <h2>Regional Spotlight:<br> Greater Boston</h2>
-    <p>This timeline focuses on student newspapers in Greater Boston. A work in progress that will be updated in the coming days as many college students continue to return to the area, it highlights student reactions to campus closings, critiques of administrative policies, and concerns about the fall semester. Given the number of colleges and students in Greater Boston, we felt that this region would be a compelling case study to visualize in this fashion. We also hope this timeline encourages people to look across universities and campuses and to look back at the sheer amount of decisions, revisions, and reversals that have taken place over the last year.</p>
+    <p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RQnerfYlGnLFXf5iKsMdfZtjkpeNEivQocQ5cvL6GYs&font=Default&lang=en&initial_zoom=2&height=650"><img src="https://visionary-futures-collective.github.io/covid19/img/vfc.timeline.gb.png" alt="Greater Boston timeline screenshot" height="350"></a></p>
+    <p>This timeline focuses on student newspapers in Greater Boston. A work in progress that will be updated in the coming days as many college students continue to return to the area, it highlights student reactions to campus closings, critiques of administrative policies, and concerns about the fall semester. Given the number of colleges and students in Greater Boston, we felt that this region would be a compelling case study to visualize in this fashion. While Boston is still a city with national, regional, and alternative newspapers, the number of print and online publications has dropped significantly in recent years, leaving many student newspapers as essential independent voices covering the impact of university decisions on campus communities and the city at-large.</p> 
+      <p>We hope this timeline encourages people to look across universities and campuses in their own parts of the country and to look back at the sheer amount of decisions, revisions, and reversals that have taken place over the last year.</p>
   </div>
 <!--   <div class="tech">
     <h2>Join the Project</h2>
@@ -35,7 +37,7 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
   
 Interested in the data? These projects draw from the #CovidCampus database, a collection of over 700 student newspaper articles about COVID. [Learn more about the data here](https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing).
 
-You are also welcome to use our data set to make your own timeline, or for any other kind of research. [Click here to learn more about Timeline.JS, the platform we used to make these timelines.](https://timeline.knightlab.com/) Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!
+You are also welcome to use our data set to make your own timeline, or for any other kind of research. [Click here to learn more about Timeline.JS, the platform we used to make these timelines.](https://timeline.knightlab.com/) We're especially interested in talking to students and student journalists who may have thoughts on how to revise, expand, or otherwise make use of project data to positively impact their campus communities. Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!
 
 
 
