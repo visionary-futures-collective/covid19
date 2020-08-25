@@ -3,7 +3,7 @@ layout: page
 title: "COVID on campuses: a history"
 permalink: /timeline
 ---
-# About the Project
+# About the Timelines
 
 As the coronavirus spread across the United States and campuses made --- and revised --- their policies for labor and learning, student journalists documented these events and their impact on their local communities.  
 
