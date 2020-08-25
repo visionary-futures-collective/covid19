@@ -18,8 +18,8 @@ Student newspapers reveal how student life has gone on alongside changes in livi
     	Designed by Hannah Alpert-Abrams and the VFC. </p>
   </div>
   <div class="tech">
-    <h2>Regional Spotlight:<br> Boston</h2>
-    <p>The VFC is building timelines of student news outlets reporting on university plans during the pandemic. We'll be working with student newspaper organizations and advocating for others to create timelines of their student newspapers. Stay tuned for a few timeline examples from around the country, and keep on the lookout for our newsletter!</p>
+    <h2>Regional Spotlight:<br> Greater Boston</h2>
+    <p>This timeline focuses on student newspapers in the Greater Boston area. </p>
   </div>
 <!--   <div class="tech">
     <h2>Join the Project</h2>
