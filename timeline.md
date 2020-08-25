@@ -16,7 +16,7 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
 <div class="user">
   <div class="tech">
     <h2>General Timeline:<br> What Happened</h2>
-    	<p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12Q9u23GJuYgKOqNtnYbdhWGmXkdx-Um-Xx05Xj_rVgY&font=Default&lang=en&start_at_end=false&initial_zoom=2&height=650"><img src="https://visionary-futures-collective.github.io/covid19/img/vfc.timeline.wh.png" alt="CovidCampus timeline screenshot" height="300"></a></p>
+    	<p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=12Q9u23GJuYgKOqNtnYbdhWGmXkdx-Um-Xx05Xj_rVgY&font=Default&lang=en&start_at_end=false&initial_zoom=2&height=650"><img src="https://visionary-futures-collective.github.io/covid19/img/vfc.timeline.wh.png" alt="CovidCampus timeline screenshot" height="400"></a></p>
     	<p>This timeline records the events of the coronavirus pandemic and its impact on university students, as told by students themselves.<br><br> The timeline draws on student newspapers at community colleges, public universities, and liberal arts colleges across the United States to paint a broad picture of how universities responded to the pandemic, and how students have stepped up to support their community during unprecedented times.<br><br>
     	Designed by Hannah Alpert-Abrams and the VFC. </p>
   </div>
