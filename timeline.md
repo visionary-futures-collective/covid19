@@ -9,7 +9,9 @@ As the coronavirus spread across the United States and campuses made --- and rev
 
 Student newspapers reveal how student life has gone on alongside changes in living and learning, and show how students have joined forces with faculty and staff to fight for their health and their right to learn.  
 
-Underlying this project is a growing database containing hundreds of news articles written by students around the country. Each timeline tells a small piece of the story. 
+Underlying this project is a growing database containing hundreds of news articles written by students around the country. We use timelines to tell a small piece of the story. 
+
+This project is inspired by [Bearing Witness](https://bearingwitness.github.io/), The Covid-19 & Inequality History Documentation Project.
 
 <div class="user">
   <div class="tech">
