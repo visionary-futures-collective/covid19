@@ -4,8 +4,7 @@ title: About the Project
 permalink: /project-team
 ---
 # Ways to Get Involved
-## Learn more
-Do you want to learn more about what we do? [Join our newsletter](https://apfn.substack.com/), which will provide you with regular updates and info on how to participate in some of our initiatives.
+Want to learn more about what we do? [Join our newsletter](https://apfn.substack.com/), which will provide you with regular updates and info on how to participate in some of our initiatives.
 
 ## Share your work
 * Are you part of a strike, protest, or other action on your campus that you'd like us to circulate? Email us with a link and a one-sentence description.
@@ -16,7 +15,7 @@ Do you want to learn more about what we do? [Join our newsletter](https://apfn.s
 * Do you have time and energy and want to get involved in our project team? We're always happy to get help collecting data, building resources, developing our website, conducting outreach, and editing the newsletter. Email us and tell us what you're interested in doing.
 
 ## Contact
-email: visionaryfuturescollective@gmail.com
+* email: visionaryfuturescollective@gmail.com
 
 
 # Project Principles
