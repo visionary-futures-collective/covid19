@@ -7,9 +7,9 @@ permalink: /project-team
 Want to learn more about what we do? [Join our newsletter](https://apfn.substack.com/), which will provide you with regular updates and info on how to participate in some of our initiatives.
 
 ## Share your work
-* Are you part of a strike, protest, or other action on your campus that you'd like us to circulate? Email us with a link and a one-sentence description.
+* Are you part of a strike, protest, open letter, or other action on your campus that you'd like us to circulate? Email us with a link and a one-sentence description and we'll add share it in our next newsletter.
 * Do you want to contribute a short creative piece, interview, project profile, artwork, or other content to our newsletter? Email us your piece or a short description of what you want to do.
-* Are you part of a data-collection project focused on resisting exploitation and health risks on college campuses? We'd love to add your project to our Resources page, and we're always interested in finding ways to collaborate. Email us for more information.
+* Are you part of a data-collection project focused on resisting exploitation and health risks on college campuses? We'd love to add your project to our Resources page, and we're always interested in finding ways to collaborate. Email us!
 
 ## Join the team
 * Do you have time and energy and want to get involved in our project team? We're always happy to get help collecting data, building resources, developing our website, conducting outreach, and editing the newsletter. Email us and tell us what you're interested in doing.
