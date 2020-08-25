@@ -20,6 +20,8 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
     	<p>This timeline records the events of the coronavirus pandemic and its impact on university students, as told by students themselves.<br><br> The timeline draws on student newspapers at community colleges, public universities, and liberal arts colleges across the United States to paint a broad picture of how universities responded to the pandemic, and how students have stepped up to support their community during unprecedented times.<br><br>
     	Designed by Hannah Alpert-Abrams and the VFC. </p>
   </div>
+  
+<div class="user">
   <div class="tech">
     <h2>Regional Spotlight:<br> Greater Boston</h2>
     <p><a href="https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1RQnerfYlGnLFXf5iKsMdfZtjkpeNEivQocQ5cvL6GYs&font=Default&lang=en&initial_zoom=2&height=650" target="_blank"><img src="https://visionary-futures-collective.github.io/covid19/img/vfc.timeline.gb.png" alt="Greater Boston timeline screenshot" height="200"></a></p>
