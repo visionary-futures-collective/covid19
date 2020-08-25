@@ -22,7 +22,7 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
   </div>
   <div class="tech">
     <h2>Regional Spotlight:<br> Greater Boston</h2>
-    <p>This timeline focuses on student newspapers in the Greater Boston area. </p>
+    <p>This timeline focuses on student newspapers in Greater Boston. A work in progress that will be updated in the coming days as many college students continue to return to the area, it highlights student reactions to campus closings, critiques of administrative policies, and concerns about the fall semester. Given the number of colleges and students in Greater Boston, we felt that this region would be a compelling case study to visualize in this fashion. We also hope this timeline encourages people to look across universities and campuses and to look back at the sheer amount of decisions, revisions, and reversals that have taken place over the last year.</p>
   </div>
 <!--   <div class="tech">
     <h2>Join the Project</h2>
