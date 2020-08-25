@@ -29,8 +29,7 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
     We hope this timeline encourages people to look across universities and campuses in their own parts of the country and to look back at the sheer amount of decisions, revisions, and reversals that have taken place over the last year.<br><br>
     Designed by Jim McGrath and the VFC.</p>
   </div>
-</div></div>
-
+</div>
 
 # Join the Project
   
