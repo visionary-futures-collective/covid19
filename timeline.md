@@ -27,12 +27,7 @@ This project is inspired by [Bearing Witness](https://bearingwitness.github.io/)
       <p>We hope this timeline encourages people to look across universities and campuses in their own parts of the country and to look back at the sheer amount of decisions, revisions, and reversals that have taken place over the last year.<br><br>
       Designed by Jim McGrath and the VFC.</p>
   </div>
-<div class="tech">
-    <h2>Join the Project</h2>
-    <p>Interested in the data? These projects draw from the #CovidCampus database, a collection of over 700 student newspaper articles about COVID. <a href="https://docs.google.com/document/d/1R9XvbssNDxQ1xV8xWM83mjrf-BIRWuGfvCpm5dB-UzA/edit?usp=sharing" target="_blank"> Learn more about the data here.</a><br><br>
-  	You are also welcome to use our data set to make your own timeline (or do your own research). Intructions on how to make a timeline for your campus are forthcoming. Email us at visionaryfuturescollective@gmail.com to learn more or to add your timeline to our website!</p>
-  </div> -->
-</div>
+
 
 # Join the Project
   
