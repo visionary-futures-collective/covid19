@@ -3,6 +3,10 @@ layout: page
 title: Resources
 permalink: /resources
 ---
+## VFC Publications
+
+* [*Visionary Futures and Making Change in the Academy With Data*](https://medium.com/nightingale/visionary-futures-and-making-change-in-the-academy-with-data-490da495c1ed). Nightingale, August 27, 2020. By Amanda Henrichs with the VFC.
+
 ## The College Crisis
 
 Since the start of the pandemic, a wide array of organizations have been tracking the spread of the disease and its impact on various industries. The intersection of the COVID-19 pandemic and university studies has led to interesting work, including data-based analyses of reopening plans and digital storytelling such as a choose-your-own-adventure game. 
