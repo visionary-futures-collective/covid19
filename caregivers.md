@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Caregivers Survey"
-permalink: /caregivers
+permalink: /caregiving
 ---
 # Join the initiative
 
