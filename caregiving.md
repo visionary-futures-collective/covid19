@@ -15,7 +15,7 @@ Watch this space for updates on what we've learned and how you can get involved.
 Here's what we know so far:
 
 ## Caregivers feel abandoned by their institutions
-![Caregiver Feelings Chart](img/caregiver-feelings.png)
+<img src="img/caregiver-feelings.png" alt="Caregiver Feelings Chart" width="200"/>
 
 ## About our respondents
 
