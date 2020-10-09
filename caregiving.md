@@ -15,15 +15,18 @@ Watch this space for updates on what we've learned and how you can get involved.
 Here's what we know so far:
 
 ## Caregivers feel abandoned by their institutions
-<img src="img/caregiver-feelings.png" alt="Caregiver Feelings Chart" width="200"/>
+<img src="img/caregiver-feelings.png" alt="Caregiver Feelings Chart" width="600"/>
 
 ## About our respondents
 
-![Caregiver Caretaking Chart](img/caregiver-whofor.png)  
+<img src="img/caregiver-whofor.png" alt="Caregiver Caretaking Chart" width="600"/>
+<br>
+<br>
+<img src="img/caregiver-jobs.png" alt="Caregiver Jobs Chart" width="600"/>
+<br>
+<br>
+<img src="img/caregiver-security.png" alt="Caregiver Job Security Chart" width="600"/>
 
-![Caregiver Jobs Chart](img/caregiver-jobs.png)  
-
-![Caregiver Job Security Chart](img/caregiver-security.png)  
 
 
 
