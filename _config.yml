@@ -6,7 +6,7 @@ baseurl: "/covid19" # the subpath of your site, e.g. /blog
 
 # User settings
 username: COVID-19 response tracker
-user_description: This group seeks to explore alternate futures for academic institutions at a time of precarity and transformation. The present project addresses the impact of the COVID-19 outbreak on labor and safety. We are currently gathering data on nation-wide return to campus plans for fall 2020.
+user_description: This group seeks to explore alternate futures for academic institutions at a time of precarity and transformation. The present project addresses the impact of the COVID-19 outbreak on labor and safety. 
 user_title: Visionary Futures Collective
 email: visionaryfuturescollective@gmail.com
 # twitter_username: lorem_ipsum
