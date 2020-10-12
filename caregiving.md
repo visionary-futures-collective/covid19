@@ -19,7 +19,7 @@ Here's what we know so far:
 
 ## About our respondents
 
-<img src="img/caregiver-whofor.png" alt="Caregiver Caretaking Chart" width="600"/>
+<img src="img/caregiver-whofor.png" alt="Caregiver Age-of-Care Chart" width="600"/>
 <br>
 <br>
 <img src="img/caregiver-jobs.png" alt="Caregiver Jobs Chart" width="600"/>
