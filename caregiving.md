@@ -66,7 +66,7 @@ We left a space for further comments and so, so many of you shared heartbreaking
 
 Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
 
-The majority of respondents (abour 40%) are caring for one or more child age 6-12, while about 20% are caring for adults.  
+The majority of respondents (about 40%) are caring for one or more child age 6-12, while about 20% are caring for adults.  
 <br>
 <img src="img/caregiver-whofor.png" alt="Caregiver Age-of-Care Chart" width="500"/>
 <br>
