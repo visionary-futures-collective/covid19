@@ -14,7 +14,7 @@ We're still in the process of collecting and validating data. But events are mov
 
 Last update: October 13, 2020.
 
-## Institutions aren't doing enough
+## 1. Institutions aren't doing enough
 We identified seventeen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
 
 [View the responses, broken down by institution, here.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
@@ -28,7 +28,7 @@ Only 16% reported FMLA mandated leave, while 17% reported that their institution
 ### Caveats
 We only asked for positive responses, not negative responses, so we don't know for sure that institutions aren't providing other resources to some of their staff. We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. If your experience differs from what is being reported, feel free to complete the survey yourself.
 
-## Other accommodations
+### Other accommodations
 A number of respondents described other ways that they are being supported that are not included in the survey, such as:
 * Ability to delay / take early scheduled leave
 * Ability to manipulate policies on behalf of supervisees
@@ -37,7 +37,7 @@ A number of respondents described other ways that they are being supported that 
 * Nothing, Absolutely nothing, nothing at all.
 * "I was forced to quit."
 
-## Caregivers feel abandoned by their institutions
+## 2. Caregivers feel abandoned by their institutions
 
 We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
 
@@ -47,7 +47,7 @@ Overwhelmingly, respondents felt under-supported by their institutions. We're no
 
 <img src="img/caregiver-feelings.png" alt="Caregiver Feelings Chart" width="500"/>
 
-## Caregivers are struggling
+## 3. Caregivers are struggling
 
 We left a space for further comments and so, so many of you shared heartbreaking stories of your struggles. We are thinking of ways to meaningfully share this information, but here are just a few examples:
 * "While I can do my job from home I don't think I'll be allowed to. I feel totally abandoned by the university and like they will just want me to quit, which I can't afford."
@@ -58,7 +58,7 @@ We left a space for further comments and so, so many of you shared heartbreaking
 * "We are also furloughed."
 * "The desperation is real and pressing."
 
-## About our respondents
+## 4. About our respondents
 
 Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
 
