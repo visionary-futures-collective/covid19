@@ -64,12 +64,15 @@ We left a space for further comments and so, so many of you shared heartbreaking
 
 Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
 
+The majority of respondents (abour 40%) are caring for one or more child age 6-12, while about 20% are caring for adults. 
 <img src="img/caregiver-whofor.png" alt="Caregiver Age-of-Care Chart" width="500"/>
 <br>
 <br>
+The majority of respondents (about 40%) are tenured faculty, followed by tenure track faculty, administrative staff, or permanent librarians.
 <img src="img/caregiver-jobs.png" alt="Caregiver Jobs Chart" width="500"/>
 <br>
 <br>
+More than 60% of respondents are in permanent roles, which means their jobs don't have a fixed end date. About twenty percent are on term-limited contracts, while the remainder are precarious (i.e. adjuncting) or students. 
 <img src="img/caregiver-security.png" alt="Caregiver Job Security Chart" width="500"/>
 
 
