@@ -15,18 +15,20 @@ We're still in the process of collecting and validating data. But events are mov
 Last update: October 13, 2020.
 
 ## 1. Institutions aren't doing enough
-We identified seventeen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
+We identified sixteen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
 
 [View the responses, broken down by institution, here.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
 
-We asked respondents which of those seventeen modes of support they had received from their institutions. The numbers overwhelmingly show that institutions are not offering most, if any, of these provisions.
+We asked respondents which of those sixteen modes of support they had received from their institutions. *The numbers overwhelmingly show that institutions are not offering most, if any, of these provisions.*
 
 Workers from only 41% of institutions reported having the option of work from home or flexible work schedules.
 
-Only 16% reported FMLA mandated leave, while 17% reported that their institutions had even acknowledged the emotional impact of caregiving on their workers.
+Only 16% reported FMLA mandated leave, while a mere 17% reported that their institutions had acknowledged the emotional impact of caregiving on their workers.
 
 ### Caveats
-We only asked for positive responses, not negative responses, so we don't know for sure that institutions aren't providing other resources to some of their staff. We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. If your experience differs from what is being reported, feel free to complete the survey yourself.
+* We only asked for positive responses, not negative responses, so we don't know for sure that institutions aren't providing other resources to some of their staff. 
+* We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. 
+If your experience differs from what is being reported, feel free to complete the survey yourself.
 
 ### Other accommodations
 A number of respondents described other ways that they are being supported that are not included in the survey, such as:
