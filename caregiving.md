@@ -43,9 +43,9 @@ A number of respondents described other ways that they are being supported that 
 
 We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
 
-Respondents could choose between Abandoned, Somewhat Supported, Adequately Supported, and Fully Supported.  
+Respondents could choose between Abandoned (49.7%), Somewhat Supported (39.2%), Adequately Supported (10.5%), and Fully Supported (0.7%).  
 
-Overwhelmingly, respondents felt under-supported by their institutions. We're not going to lie: it's painful to see how many of you feel fully abandoned by your workplace.  
+*Overwhelmingly, respondents felt under-supported by their institutions.* We're not going to lie: it's painful to see how many of you feel fully abandoned by your workplace.  
 
 <img src="img/caregiver-feelings.png" alt="Caregiver Feelings Chart" width="500"/>
 
