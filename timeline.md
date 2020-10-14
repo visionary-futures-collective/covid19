@@ -3,6 +3,6 @@ layout: page
 title: "Timelines"
 permalink: /timeline
 ---
-Oops! We've redesigned our website. [You can now view this content here.](/students)
+Oops! We've redesigned our website. [You can now view this content here.](/covid-19/students)
 
 
