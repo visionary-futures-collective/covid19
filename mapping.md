@@ -3,7 +3,9 @@ layout: page
 title: Mapping COVID
 permalink: /mapping
 ---
-# Mapping
+Oops! We've redesigned our website. You can now view [maps about campus reopening here](/reopening) and [maps about students here](/students).
+
+<!-- # Mapping
 
 We aim to use simple maps to tell a bigger story about how campuses are responding to the coronavirus across the United States. Our vision? To see all campuses become fully remote in time for the fall 2020 semester.
 
@@ -18,4 +20,4 @@ We aim to use simple maps to tell a bigger story about how campuses are respondi
 
 We use data collected by other projects to tell a bigger story about campus reopening. Learn more about where our data comes from on [our resources page](/resources.md).  
 
-We are also collecting our own data to tell a different story about campus reopening - one that focuses on underaddressed policies of surveillance and exploitation. [View and add to our data set here](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit?usp=sharing).
+We are also collecting our own data to tell a different story about campus reopening - one that focuses on underaddressed policies of surveillance and exploitation. [View and add to our data set here](https://docs.google.com/spreadsheets/d/1QT9K9gqxfdKA5G4xuKsL5EgrNQF5darG3WLiomixoVE/edit?usp=sharing). -->
