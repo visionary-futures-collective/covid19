@@ -3,7 +3,7 @@ layout: page
 title: Mapping COVID
 permalink: /mapping
 ---
-Oops! We've redesigned our website. You can now view [maps about campus reopening here](covid-19/reopening) and [maps about students here](covid-19/students).
+Oops! We've redesigned our website. You can now view [maps about campus reopening here](covid19/reopening) and [maps about students here](covid19/students).
 
 <!-- # Mapping
 
