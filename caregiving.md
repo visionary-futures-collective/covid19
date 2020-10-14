@@ -29,12 +29,6 @@ Workers from only 41% of institutions reported having the option of work from ho
 
 Only 16% reported FMLA mandated leave, while a mere 17% reported that their institutions had acknowledged the emotional impact of caregiving on their workers.
 
-### Caveats
-* We only asked for positive responses, not negative responses, so we don't know for sure that institutions aren't providing other resources to some of their staff. 
-* The spreadsheet summarizes the responses by institution, and omits responses that don't name an institution. We are working on ways to provide a more complete picture of responses.
-* We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. 
-If your experience differs from what is being reported, feel free to complete the survey yourself.
-
 ### Other accommodations
 A number of respondents described other ways that they are being supported that are not included in the survey, such as:
 * Ability to delay / take early scheduled leave
@@ -43,6 +37,12 @@ A number of respondents described other ways that they are being supported that 
 * Reduced service responsibilities
 * Nothing, Absolutely nothing, nothing at all.
 * "I was forced to quit."
+
+### Caveats
+* We only asked for positive responses, not negative responses, so we don't know for sure that institutions aren't providing other resources to some of their staff. 
+* The spreadsheet summarizes the responses by institution, and omits responses that don't name an institution. We are working on ways to provide a more complete picture of responses.
+* We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. 
+If your experience differs from what is being reported, feel free to complete the survey yourself.
 
 ## 2. Caregivers feel abandoned by their institutions
 
