@@ -16,7 +16,7 @@ Help us analyze the responses: email visionaryfuturescollective@gmail.com to get
 # What we've learned
 We're still in the process of collecting and validating data. But events are moving too quickly for us to sit by and wait, so we're posting preliminary information in real time as we receive it. 
 
-Last update: October 13, 2020.
+Last update: October 13, 2020. Responses: 162. Institutions: 88.
 
 ## 1. Institutions aren't doing enough
 We identified sixteen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
@@ -31,6 +31,7 @@ Only 16% reported FMLA mandated leave, while a mere 17% reported that their inst
 
 ### Caveats
 * We only asked for positive responses, not negative responses, so we don't know for sure that institutions aren't providing other resources to some of their staff. 
+* The spreadsheet summarizes the responses by institution, and omits responses that don't name an institution. We are working on ways to provide a more complete picture of responses.
 * We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. 
 If your experience differs from what is being reported, feel free to complete the survey yourself.
 
