@@ -30,24 +30,24 @@ We asked respondents which of those sixteen modes of support they had received f
 		<th>Percent of institutions taking action</th>
 	</tr>
 	<tr>
-		<th>Financial support to help pay for professional care, like childcare or in-home help</th>
-		<th>4.96%</th>
+		<td></td>>Financial support to help pay for professional care, like childcare or in-home help</td>
+		<td>4.96%</td>
 	</tr>
 	<tr>
-		<th>Financial support for technology or equipment necessary for caregiving</th>
-		<th>4.96%</th>
+		<td>Financial support for technology or equipment necessary for caregiving</td>
+		<td>4.96%</td>
 	</tr>
 	<tr>
-		<th>Other financial support related to caregiving</th>
-		<th>0%</th>
+		<td>Other financial support related to caregiving</td>
+		<td>0%</td>
 	</tr>
 	<tr>
-		<th>Campus-provided childcare</th>
-		<th>7.44%</th>
+		<td>Campus-provided childcare</td>
+		<td>7.44%</td>
 	</tr>
 	<tr>
-		<th>Logistical support in finding caregiving services, like pods</th>
-		<th>6.61%</th>
+		<td>Logistical support in finding caregiving services, like pods</td>
+		<td>6.61%</td>
 	</tr>
 </table>
 
