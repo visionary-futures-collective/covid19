@@ -151,21 +151,21 @@ Respondents could choose between Abandoned (47.22%), Somewhat Supported (39.68%)
 <div class="user">
   <div class="tech">
     <h2>How we feel</h2>
-	    <p><img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" height="350"></a></p>
+	    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Map of the US" height="350"></a></p>
 	    <p>This chart shows how respondents feel about the support they are receiving. It is the most comprehensive data currently available, because it includes those who didn't name an institution and those based internationally.</p>
   </div>
   
 <!-- <div class="user"> -->
   <div class="tech">
     <h2>Feelings across the US</h2>
-    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" height="350"></a></p>
+    <p><img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Pie Chart" height="350"></a></p>
     <p>This chart shows how US-based respondents feel about the support they are receiving. The darker the color, the more abandoned the respondents. States for which we have no data are gray.</p>
   </div>
 </div> 
-
+<!-- 
 <img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" width="500"/>
 
-<img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/>
+<img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/> -->
 
 ## 3. Caregivers are struggling
 
