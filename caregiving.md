@@ -24,7 +24,7 @@ Respondents could choose between Abandoned (47.22%), Somewhat Supported (39.68%)
 <div class="user">
   <div class="tech">
     <h2>How we feel</h2>
-	    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" height="350"></p>
+	    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" height="300"></p>
 	    <p>This chart shows how respondents feel about the support they are receiving. It is the most comprehensive data currently available, because it includes those who didn't name an institution and those based internationally.</p>
   </div>
   
