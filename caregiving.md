@@ -3,26 +3,24 @@ layout: page
 title: "The Caregivers Survey"
 permalink: /caregivers
 ---
-# Join the initiative
+# About the Initiative
 
 We're collecting data on caregiver experiences at universities across the United States and internationally.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">View the survey. </a>
 
-
-# What we've learned
 We're still in the process of collecting and validating data. But events are moving too quickly for us to sit by and wait, so we're posting preliminary information in real time as we receive it. 
 
 Last update: October 24, 2020. Responses: 252. Institutions: 121.
 
-## 1. Institutions aren't doing enough
+# 1. Institutions aren't doing enough
 We identified sixteen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
 
 [View the responses, broken down by institution, here.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
 
 We asked respondents which of those sixteen modes of support they had received from their institutions. *The numbers overwhelmingly show that institutions are not offering most, if any, of these provisions.* Read on to see what those provisions are... and where institutions are taking action (or falling short).
 
-### Logistical or Financial Support
+## Logistical or Financial Support
 <table>
 	<tr>
 		<th>Act of support</th>
@@ -50,7 +48,7 @@ We asked respondents which of those sixteen modes of support they had received f
 	</tr>
 </table>
 
-### Scheduling and Workload Support
+## Scheduling and Workload Support
 <table>
 	<tr>
 		<th>Act of support</th>
@@ -94,7 +92,7 @@ We asked respondents which of those sixteen modes of support they had received f
 	</tr>
 </table>
 
-### Communicative and Emotional Support
+## Communicative and Emotional Support
 <table>
 	<tr>
 		<th>Act of support</th>
@@ -140,7 +138,7 @@ A number of respondents described other ways that they are being supported that 
 * We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. 
 If your experience differs from what is being reported, feel free to complete the survey yourself. -->
 
-## 2. Caregivers feel abandoned by their institutions
+# 2. Caregivers feel abandoned by their institutions
 
 We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
 
@@ -167,7 +165,7 @@ Respondents could choose between Abandoned (47.22%), Somewhat Supported (39.68%)
 
 <img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/> -->
 
-## 3. Caregivers are struggling
+# 3. Caregivers are struggling
 
 We left a space for further comments and so, so many of you shared heartbreaking stories of your struggles. We are thinking of ways to meaningfully share this information, but here are just a few examples:
 * "While I can do my job from home I don't think I'll be allowed to. I feel totally abandoned by the university and like they will just want me to quit, which I can't afford."
@@ -178,7 +176,7 @@ We left a space for further comments and so, so many of you shared heartbreaking
 * "We are also furloughed."
 * "The desperation is real and pressing."
 
-## 4. About our respondents
+# 4. About our respondents
 
 Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
 
