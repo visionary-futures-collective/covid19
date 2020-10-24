@@ -13,7 +13,34 @@ We're still in the process of collecting and validating data. But events are mov
 
 Last update: October 24, 2020. Responses: 252. Institutions: 121.
 
-# 1. Institutions aren't doing enough
+# 1. Caregivers feel abandoned by their institutions
+
+We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
+
+Respondents could choose between Abandoned (47.22%), Somewhat Supported (39.68%), Adequately Supported (11.9%), and Fully Supported (1.19%).  
+
+*Overwhelmingly, respondents felt under-supported by their institutions.* We're not going to lie: it's painful to see how many of you feel fully abandoned by your workplace. 
+
+<div class="user">
+  <div class="tech">
+    <h2>How we feel</h2>
+	    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" height="350"></p>
+	    <p>This chart shows how respondents feel about the support they are receiving. It is the most comprehensive data currently available, because it includes those who didn't name an institution and those based internationally.</p>
+  </div>
+  
+<!-- <div class="user"> -->
+  <div class="tech">
+    <h2>Feelings across the US</h2>
+    <p><img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" height="300"></p>
+    <p>This chart shows how US-based respondents feel about the support they are receiving. The darker the color, the more abandoned the respondents. States for which we have no data are gray.</p>
+  </div>
+</div> 
+<!-- 
+<img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" width="500"/>
+
+<img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/> -->
+
+# 2. Institutions aren't doing enough
 We identified sixteen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
 
 [View the responses, broken down by institution, here.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
@@ -138,32 +165,7 @@ A number of respondents described other ways that they are being supported that 
 * We didn't break down the data by position, though we know that people in different kinds of jobs received wildly different options. 
 If your experience differs from what is being reported, feel free to complete the survey yourself. -->
 
-# 2. Caregivers feel abandoned by their institutions
 
-We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
-
-Respondents could choose between Abandoned (47.22%), Somewhat Supported (39.68%), Adequately Supported (11.9%), and Fully Supported (1.19%).  
-
-*Overwhelmingly, respondents felt under-supported by their institutions.* We're not going to lie: it's painful to see how many of you feel fully abandoned by your workplace. 
-
-<div class="user">
-  <div class="tech">
-    <h2>How we feel</h2>
-	    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" height="350"></p>
-	    <p>This chart shows how respondents feel about the support they are receiving. It is the most comprehensive data currently available, because it includes those who didn't name an institution and those based internationally.</p>
-  </div>
-  
-<!-- <div class="user"> -->
-  <div class="tech">
-    <h2>Feelings across the US</h2>
-    <p><img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" height="300"></p>
-    <p>This chart shows how US-based respondents feel about the support they are receiving. The darker the color, the more abandoned the respondents. States for which we have no data are gray.</p>
-  </div>
-</div> 
-<!-- 
-<img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" width="500"/>
-
-<img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/> -->
 
 # 3. Caregivers are struggling
 
