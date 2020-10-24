@@ -50,6 +50,70 @@ We asked respondents which of those sixteen modes of support they had received f
 	</tr>
 </table>
 
+### Scheduling and Workload Support
+<table>
+	<tr>
+		<th>Act of support</th>
+		<th>Percent of institutions taking action</th>
+	</tr>
+	<tr>
+		<td>FMLA leave under the provisions of the FFCRA act</td>
+		<td>28.93%</td>
+	</tr>
+	<tr>
+		<td>Option to work fewer hours for less pay</td>
+		<td>20.66%</td>
+	</tr>
+	<tr>
+		<td>Option to work fewer hours with the same pay</td>
+		<td>8.26%</td>
+	</tr>
+	<tr>
+		<td>Work from home options & flexible work schedules for caregivers</td>
+		<td>68.60%</td>
+	</tr>
+	<tr>
+		<td>For instructors: course buyouts for caregiving</td>
+		<td>4.96%</td>
+	</tr>
+	<tr>
+		<td>For students: increased time to degree to accommodate caregiving</td>
+		<td>3.31%</td>
+	</tr>
+	<tr>
+		<td>For tt workers: paused tenure clocks for caregiving</td>
+		<td>42.15%</td>
+	</tr>
+	<tr>
+		<td>Ability to take early or delay scheduled leave</td>
+		<td>8.26%</td>
+	</tr>
+	<tr>
+		<td>For instructors: Additional TAs or RAs to reduce workload</td>
+		<td>2.48%</td>
+	</tr>
+</table>
+
+### Communicative and Emotional Support
+<table>
+	<tr>
+		<th>Act of support</th>
+		<th>Percent of institutions taking action</th>
+	</tr>
+	<tr>
+		<td>Clear communication about caregiving policies and expectations</td>
+		<td>17.36%</td>
+	</tr>
+	<tr>
+		<td>Acknowledgement of the emotional costs of caregiving</td>
+		<td>41.32%</td>
+	</tr>
+	<tr>
+		<td>Acknowledgement of the racial and gendered impact of caregiving on careers and a stated commitment to addressing those impacts.</td>
+		<td>19.01%</td>
+	</tr>
+</table>
+
 <!-- 
 We identified sixteen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
 
