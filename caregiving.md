@@ -7,9 +7,8 @@ permalink: /caregivers
 
 We're collecting data on caregiver experiences at universities across the United States and internationally.
 
-Take the survey:
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">View the survey. </a>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 # What we've learned
 We're still in the process of collecting and validating data. But events are moving too quickly for us to sit by and wait, so we're posting preliminary information in real time as we receive it. 
@@ -132,6 +131,11 @@ More than 60% of respondents are in permanent roles, which means their jobs don'
 <img src="img/caregiver-security.png" alt="Caregiver Job Security Chart" width="500"/>
 
 [Note: this hasn't been updated since 10-13]
+
+# Take the Survey!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 
 
 
