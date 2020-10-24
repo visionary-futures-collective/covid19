@@ -30,7 +30,7 @@ We asked respondents which of those sixteen modes of support they had received f
 		<th>Percent of institutions taking action</th>
 	</tr>
 	<tr>
-		<td></td>>Financial support to help pay for professional care, like childcare or in-home help</td>
+		<td>Financial support to help pay for professional care, like childcare or in-home help</td>
 		<td>4.96%</td>
 	</tr>
 	<tr>
