@@ -3,15 +3,11 @@ layout: page
 title: "The Caregivers Survey"
 permalink: /caregivers
 ---
-# About the Initiative
+# Welcome to the Caregivers Survey
 
-We're collecting data on caregiver experiences at universities across the United States and internationally.
+A VFC effort to bring visibility to working conditions for caregivers during the coronavirus pandemic.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">View the survey. </a>
-
-We're still in the process of collecting and validating data. But events are moving too quickly for us to sit by and wait, so we're posting preliminary information in real time as we receive it. 
-
-Last update: October 24, 2020. Responses: 252. Institutions: 121.
 
 # 1. Caregivers feel abandoned by their institutions
 
@@ -45,11 +41,7 @@ We're not going to lie: it's painful to see how many of you feel fully abandoned
 <img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/> -->
 
 # 2. Institutions aren't doing enough
-We are collecting data on specific ways that institutions are (or aren't) taking action to support caregivers on campus.
-
-There are two ways you can view the responses. To view the support provided by specific institutions, take a look at our [Caregiving Spreadsheet.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
-
-The tables below summarize those responses. Actions taken by more than 1/3 of institutions are highlighted in blue. Overwhelmingly, institutions are doing little to nothing at all.
+View our [Caregiving Spreadsheet](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
 
 ## Logistical or Financial Support
 <table>
@@ -433,8 +425,7 @@ If your experience differs from what is being reported, feel free to complete th
 </div>
 
 
-
-# 4. About our respondents
+# About our respondents
 
 Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
 
@@ -451,6 +442,16 @@ More than 60% of respondents are in permanent roles, which means their jobs don'
 <img src="img/caregiver-security.png" alt="Caregiver Job Security Chart" width="500"/>
 
 [Note: this hasn't been updated since 10-13]
+
+# About the Initiative
+
+We're collecting data on caregiver experiences at universities across the United States and internationally.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">View the survey. </a>
+
+We're still in the process of collecting and validating data. But events are moving too quickly for us to sit by and wait, so we're posting preliminary information in real time as we receive it. 
+
+Last update: October 24, 2020. Responses: 252. Institutions: 121.
 
 <!-- # Take the Survey!
 
