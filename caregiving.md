@@ -444,7 +444,7 @@ The majority of respondents (about 40%) are tenured faculty, followed by tenure 
 More than 60% of respondents are in permanent roles, which means their jobs don't have a fixed end date. About twenty percent are on term-limited contracts, while the remainder are precarious (i.e. adjuncting) or students. <br>
 <img src="img/caregiver-security.png" alt="Caregiver Job Security Chart" width="500"/>
 
-[Note: this hasn't been updated since 10-13]
+[Note: this section hasn't been updated since 10-13]
 
 # About the Initiative
 
