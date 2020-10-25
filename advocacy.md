@@ -35,6 +35,33 @@ permalink: /advocacy
 <div class="row">
   <div class="column">
 	<div class="container">
+	  <img src="img/AC/AC-25.png" alt="ADJUNCT FACULTY: NEW YORK" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text"> The very structure of adjunct labor means that very little support is even institutionally possible ... and most of the kinds of support that people are agitating for would not apply to me.</div>
+	  </div>
+	</div>
+  </div>
+  <div class="column">
+	<div class="container">
+	  <img src="img/AC/AC-26.png" alt="TENURE-TRACK FACULTY: NEW YORK" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text">It's clear that I will not be able to complete sufficient research to be granted tenure under the circumstances, so I must seek a career change.</div>
+	  </div>
+	</div>
+  </div>
+  <div class="column">
+	<div class="container">
+	  <img src="img/AC/AC-27.png" alt="GRADUATE STUDENT: MISSOURI" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text">Caring for an ailing and high-covid-risk parent during a pandemic-interrupted PhD program? I feel like I need far more than anything that the concept of "acommodation" can provide.</div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+	<div class="container">
 	  <img src="img/AC/AC-4.png" alt="TENURE-TRACK FACULTY: PENNSYLVANIA" class="image" style="width:100%">
 	  <div class="middle">
 	    <div class="text"> The failure, at a human level, to even acknowledge the situation of caregivers is devastating.</div>
@@ -221,29 +248,4 @@ permalink: /advocacy
   </div>
 </div>
 
-<div class="row">
-  <div class="column">
-	<div class="container">
-	  <img src="img/AC/AC-25.png" alt="ADJUNCT FACULTY: NEW YORK" class="image" style="width:100%">
-	  <div class="middle">
-	    <div class="text"> The very structure of adjunct labor means that very little support is even institutionally possible ... and most of the kinds of support that people are agitating for would not apply to me.</div>
-	  </div>
-	</div>
-  </div>
-  <div class="column">
-	<div class="container">
-	  <img src="img/AC/AC-26.png" alt="TENURE-TRACK FACULTY: NEW YORK" class="image" style="width:100%">
-	  <div class="middle">
-	    <div class="text">It's clear that I will not be able to complete sufficient research to be granted tenure under the circumstances, so I must seek a career change.</div>
-	  </div>
-	</div>
-  </div>
-  <div class="column">
-	<div class="container">
-	  <img src="img/AC/AC-27.png" alt="GRADUATE STUDENT: MISSOURI" class="image" style="width:100%">
-	  <div class="middle">
-	    <div class="text">caring for an ailing and high-covid-risk parent during a pandemic-interrupted PhD program? I feel like I need far more than anything that the concept of "acommodation" can provide.</div>
-	  </div>
-	</div>
-  </div>
-</div>
+
