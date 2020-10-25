@@ -45,7 +45,7 @@ We asked caregivers what actions their institutions were taking to support them.
 
 View results organized by institution in our [Caregiving Spreadsheet](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing).
 
-View a summary of results below.
+View a summary of results below. Actions taken by more than 1/3 of institutions are highlighted in blue.
 ## Logistical or Financial Support
 <table>
 	<tr>
