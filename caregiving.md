@@ -81,7 +81,7 @@ We asked respondents which of those sixteen modes of support they had received f
 
 ## Scheduling and Workload Support
 <table>
-	<caption>Summary of actions taken by universities to support caregivers.</caption>
+<!-- 	<caption>Summary of actions taken by universities to support caregivers.</caption> -->
   <thead>
 <!--     <tr>
       <th scope="col">Actions Taken</th>
