@@ -96,7 +96,7 @@ table {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
-  border: 3px solid red;
+  border: 3px solid maroon;
 /*  border-color: #7B241C;*/
 }
 
@@ -140,8 +140,8 @@ tbody tr:nth-child(even) {
   background-color: #EBEDEF  ;
 }
 
-thead, tfoot {
+/*thead, tfoot {
   background: url("img/dots-strip.png");
   color: white;
   text-shadow: 1px 1px 1px black;
-}
+}*/
