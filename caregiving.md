@@ -5,7 +5,7 @@ permalink: /caregivers
 ---
 # Welcome to the Caregivers Survey
 
-A VFC effort to bring visibility to working conditions for caregivers during the coronavirus pandemic.
+A VFC effort to bring visibility to working conditions for caregivers on campuses during the coronavirus pandemic.
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">Take the survey. </a> View a summary of preliminary results below.
 
