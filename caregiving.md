@@ -322,33 +322,6 @@ If your experience differs from what is being reported, feel free to complete th
 <div class="row">
   <div class="column">
 	<div class="container">
-	  <img src="img/AC/AC-13.png" alt="TENURED FACULTY: NEW YORK" class="image" style="width:100%">
-	  <div class="middle">
-	    <div class="text"> We have circulated a petition to the university and over a month later there has been no public statement and no specific accommodations or supports.</div>
-	  </div>
-	</div>
-  </div>
-  <div class="column">
-	<div class="container">
-	  <img src="img/AC/AC-14.png" alt="TENURED FACULTY: WISCONSIN" class="image" style="width:100%">
-	  <div class="middle">
-	    <div class="text">We are also furloughed. Although we are doing more teaching work to teach remotely, we have taken a pay cut.</div>
-	  </div>
-	</div>
-  </div>
-  <div class="column">
-	<div class="container">
-	  <img src="img/AC/AC-15.png" alt="TENURED FACULTY: WISCONSIN" class="image" style="width:100%">
-	  <div class="middle">
-	    <div class="text">Because we are able to be at home, everyone just assumes we must be okay. But it’s impossible to get any serious work done. </div>
-	  </div>
-	</div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column">
-	<div class="container">
 	  <img src="img/AC/AC-16.png" alt="LIBRARY STAFF: MINNESOTA" class="image" style="width:100%">
 	  <div class="middle">
 	    <div class="text"> It’s been a huge hassle getting FMLA, and I feel enormous pressure to not take as much FMLA as I actually need.</div>
@@ -368,6 +341,33 @@ If your experience differs from what is being reported, feel free to complete th
 	  <img src="img/AC/AC-18.png" alt="ADMINISTRATIVE STAFF: WASHINGTON" class="image" style="width:100%">
 	  <div class="middle">
 	    <div class="text">Can we get an expose on how bullshit the FMLA-FFCRA is? </div>
+	  </div>
+	</div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+	<div class="container">
+	  <img src="img/AC/AC-13.png" alt="TENURED FACULTY: NEW YORK" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text"> We have circulated a petition to the university and over a month later there has been no public statement and no specific accommodations or supports.</div>
+	  </div>
+	</div>
+  </div>
+  <div class="column">
+	<div class="container">
+	  <img src="img/AC/AC-14.png" alt="TENURED FACULTY: WISCONSIN" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text">We are also furloughed. Although we are doing more teaching work to teach remotely, we have taken a pay cut.</div>
+	  </div>
+	</div>
+  </div>
+  <div class="column">
+	<div class="container">
+	  <img src="img/AC/AC-15.png" alt="TENURED FACULTY: WISCONSIN" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text">Because we are able to be at home, everyone just assumes we must be okay. But it’s impossible to get any serious work done. </div>
 	  </div>
 	</div>
   </div>
