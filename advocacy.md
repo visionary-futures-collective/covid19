@@ -8,7 +8,8 @@ permalink: /advocacy
 <div class="row">
   <div class="column">
 	<div class="container">
-	  <img src="img/caregiver-whofor.png" alt="Avatar" class="image" style="width:100%">
+		Assistant Professor, California
+<!-- 	  <img src="img/caregiver-whofor.png" alt="Avatar" class="image" style="width:100%"> -->
 	  <div class="middle">
 	    <div class="text"> I feel totally abandoned by the university and like they will just want me to quit, which I can’t afford.</div>
 	  </div>
