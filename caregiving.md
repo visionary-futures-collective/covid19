@@ -13,7 +13,7 @@ A VFC effort to bring visibility to working conditions for caregivers during the
 
 We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
 
-*Overwhelmingly, respondents felt under-supported by their institutions.* 
+Here's what you told us.
 
 <!-- 
 
