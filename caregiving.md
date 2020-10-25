@@ -7,7 +7,7 @@ permalink: /caregivers
 
 A VFC effort to bring visibility to working conditions for caregivers during the coronavirus pandemic.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">View the survey. </a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">Take the survey. </a>
 
 # 1. Caregivers feel abandoned by their institutions
 
