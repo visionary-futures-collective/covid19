@@ -17,22 +17,26 @@ Last update: October 24, 2020. Responses: 252. Institutions: 121.
 
 We asked caregivers to answer the question: "How do you feel about your university's caregiver policies during the pandemic?"
 
+*Overwhelmingly, respondents felt under-supported by their institutions.* 
+
+<!-- 
+
 Respondents could choose between Abandoned (47.22%), Somewhat Supported (39.68%), Adequately Supported (11.9%), and Fully Supported (1.19%).  
 
-*Overwhelmingly, respondents felt under-supported by their institutions.* We're not going to lie: it's painful to see how many of you feel fully abandoned by your workplace. 
-
+We're not going to lie: it's painful to see how many of you feel fully abandoned by your workplace. 
+ -->
 <div class="user">
   <div class="tech">
     <h2>How we feel</h2>
 	    <p><img src="img/caregiver-feelings-10-24.png" alt="Caregiver Feelings Pie Chart" height="300"></p>
-	    <p>This chart shows how respondents feel about the support they are receiving. It is the most comprehensive data currently available, because it includes those who didn't name an institution and those based internationally.</p>
+	    <p>Overwhelmingly, caregivers feel undersupported by their institutions. Your responses: Abandoned (47.22%), Somewhat Supported (39.68%), Adequately Supported (11.9%), and Fully Supported (1.19%).  </p>
   </div>
   
 <!-- <div class="user"> -->
   <div class="tech">
     <h2>Feelings across the US</h2>
     <p><img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" height="300"></p>
-    <p>This chart shows how US-based respondents feel about the support they are receiving. The darker the color, the more abandoned the respondents. States for which we have no data are gray.</p>
+    <p>We've received responses from most of the United States as well as Mexico, Canada, and around the globe. This image shows responses across the U.S. The darker the state, the more abandoned our respondents feel.</p>
   </div>
 </div> 
 <!-- 
