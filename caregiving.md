@@ -53,10 +53,10 @@ We asked respondents which of those sixteen modes of support they had received f
 
 ## Logistical or Financial Support
 <table>
-<!-- 	<tr>
+	<tr>
 		<th>Act of support</th>
 		<th>Percent of institutions taking action</th>
-	</tr> -->
+	</tr>
 	<tr>
 		<td>Financial support to help pay for professional care, like childcare or in-home help</td>
 		<td>4.96%</td>
@@ -83,10 +83,10 @@ We asked respondents which of those sixteen modes of support they had received f
 <table>
 <!-- 	<caption>Summary of actions taken by universities to support caregivers.</caption> -->
   <thead>
-<!--     <tr>
-      <th scope="col">Actions Taken</th>
-      <th scope="col">Percent taking a</th>
-    </tr> -->
+    <tr>
+      <th scope="col">Act of support</th>
+      <th scope="col">Percent of institutions taking action a</th>
+    </tr>
   </thead>
 <tbody>
 	<tr>
@@ -130,10 +130,10 @@ We asked respondents which of those sixteen modes of support they had received f
 
 ## Communicative and Emotional Support
 <table>
-<!-- 	<tr>
+	<tr>
 		<th>Act of support</th>
 		<th>Percent of institutions taking action</th>
-	</tr> -->
+	</tr>
 	<tr>
 		<td>Clear communication about caregiving policies and expectations</td>
 		<td>17.36%</td>
