@@ -101,7 +101,7 @@ The tables below summarize those responses. Actions taken by more than 1/3 of in
 		<td>Option to work fewer hours with the same pay</td>
 		<td>8.26%</td>
 	</tr>
-	<tr style="background-color:#F0F8FF">
+	<tr style="background-color:#87CEFA">
 		<td>Work from home options & flexible work schedules for caregivers</td>
 		<td>68.60%</td>
 	</tr>
@@ -113,7 +113,7 @@ The tables below summarize those responses. Actions taken by more than 1/3 of in
 		<td>For students: increased time to degree to accommodate caregiving</td>
 		<td>3.31%</td>
 	</tr>
-	<tr>
+	<tr style="background-color:#87CEFA">
 		<td>For tt workers: paused tenure clocks for caregiving</td>
 		<td>42.15%</td>
 	</tr>
@@ -138,7 +138,7 @@ The tables below summarize those responses. Actions taken by more than 1/3 of in
 		<td>Clear communication about caregiving policies and expectations</td>
 		<td>17.36%</td>
 	</tr>
-	<tr>
+	<tr style="background-color:#87CEFA">
 		<td>Acknowledgement of the emotional costs of caregiving</td>
 		<td>41.32%</td>
 	</tr>
