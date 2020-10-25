@@ -1,0 +1,12 @@
+# Site settings
+title: Academic Psychic Friends Network
+email: visionaryfuturescollective@gmail.com
+description: Imagining better futures for higher education.
+baseurl: /psychicfriends/
+url: https://visionary-futures-collective.github.io/
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
