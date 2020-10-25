@@ -178,6 +178,29 @@ We left a space for further comments and so, so many of you shared heartbreaking
 * "We are also furloughed."
 * "The desperation is real and pressing."
 
+<section class="no-padding" id="portfolio">
+    <div class="container-fluid">
+        <div class="row no-gutter">
+            <div class="col-lg-4 col-sm-6">
+                <div class="portfolio-box">
+                    <img src="img/portfolio/gradstudent.jpg" class="img-responsive" alt="Card 0: The Graduate Student">
+                    <div class="portfolio-box-caption">
+                        <div class="portfolio-box-caption-content">
+                            <div class="project-category text-faded">
+                                0: The Graduate Student / The Fool
+                            </div>
+                            <div class="project-name">
+                                UPRIGHT: Beginnings, innocence, spontaneity, a free spirit<br><br>
+                                REVERSED: Holding back, recklessness, risk-taking
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
 # 4. About our respondents
 
 Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
