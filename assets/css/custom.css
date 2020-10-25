@@ -139,3 +139,9 @@ tbody tr:nth-child(odd) {
 tbody tr:nth-child(even) {
   background-color: #EBEDEF  ;
 }
+
+thead, tfoot {
+  background: url(img/dots-strip.png);
+  color: white;
+  text-shadow: 1px 1px 1px black;
+}
