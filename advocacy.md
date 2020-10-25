@@ -7,7 +7,12 @@ permalink: /advocacy
 
 <div class="row">
   <div class="column">
-    <img src="caregiver-whofor.png" alt="Snow" style="width:100%">
+	<div class="container">
+	  <img src="img/caregiver-whofor.png" alt="Avatar" class="image" style="width:100%">
+	  <div class="middle">
+	    <div class="text">John Doe</div>
+	  </div>
+	</div>z
   </div>
   <div class="column">
     <img src="caregiver-whofor.png" alt="Forest" style="width:100%">
