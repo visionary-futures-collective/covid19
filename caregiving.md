@@ -45,11 +45,11 @@ We're not going to lie: it's painful to see how many of you feel fully abandoned
 <img src="img/caregiver-map-10-24.png" alt="Caregiver Feelings Map of the US" width="500"/> -->
 
 # 2. Institutions aren't doing enough
-We identified sixteen different ways that institutions can support caregivers, ranging from acknowledging the emotional costs of caregiving to offering work from home, FMLA leave, or financial support.  
+We are collecting data on specific ways that institutions are (or aren't) taking action to support caregivers on campus.
 
-[View the responses, broken down by institution, here.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
+There are two ways you can view the responses. To view the support provided by specific institutions, take a look at our [Caregiving Spreadsheet.](https://docs.google.com/spreadsheets/d/1eQhgq3aKu699FWvimjtBMzLPnJIekMlVBFw1DAyrW18/edit?usp=sharing)
 
-We asked respondents which of those sixteen modes of support they had received from their institutions. *The numbers overwhelmingly show that institutions are not offering most, if any, of these provisions.* Read on to see what those provisions are... and where institutions are taking action (or falling short).
+The tables below summarize those responses. Actions taken by more than 1/3 of institutions are highlighted in blue. Overwhelmingly, institutions are doing little to nothing at all.
 
 ## Logistical or Financial Support
 <table>
@@ -101,7 +101,7 @@ We asked respondents which of those sixteen modes of support they had received f
 		<td>Option to work fewer hours with the same pay</td>
 		<td>8.26%</td>
 	</tr>
-	<tr>
+	<tr style="background-color:#87CEFA">
 		<td>Work from home options & flexible work schedules for caregivers</td>
 		<td>68.60%</td>
 	</tr>
