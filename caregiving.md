@@ -428,25 +428,7 @@ If your experience differs from what is being reported, feel free to complete th
 </div>
 
 
-# About our respondents
-
-Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
-
-The majority of respondents (about 40%) are caring for one or more child age 6-12, while about 20% are caring for adults.  
-<br>
-<img src="img/caregiver-whofor.png" alt="Caregiver Age-of-Care Chart" width="500"/>
-<br>
-<br>
-The majority of respondents (about 40%) are tenured faculty, followed by tenure track faculty, administrative staff, or permanent librarians.<br>
-<img src="img/caregiver-jobs.png" alt="Caregiver Jobs Chart" width="500"/>
-<br>
-<br>
-More than 60% of respondents are in permanent roles, which means their jobs don't have a fixed end date. About twenty percent are on term-limited contracts, while the remainder are precarious (i.e. adjuncting) or students. <br>
-<img src="img/caregiver-security.png" alt="Caregiver Job Security Chart" width="500"/>
-
-[Note: this section hasn't been updated since 10-13]
-
-# About the Initiative
+# About the survey
 
 We're collecting data on caregiver experiences at universities across the United States and internationally.
 
@@ -455,6 +437,37 @@ We're collecting data on caregiver experiences at universities across the United
 We're still in the process of collecting and validating data. But events are moving too quickly for us to sit by and wait, so we're posting preliminary information in real time as we receive it. 
 
 Last update: October 24, 2020. Responses: 252. Institutions: 121.
+
+## About the data
+
+This data represents the results of a survey that has been circulated via social media since early October, 2020. The survey was updated once, on October 14, to collect more nuanced information. We are only showing results here that can be calculated across both versions.
+
+Data about institutions has been combined and simplified. If a respondent wrote that an accommodation was available but not accessible, we did not report it. We only require one positive response, however, to consider an accommodation available, even if we received conflicting results (as was often the case when people with different job titles replied).
+
+We received a lot of information that is not yet available on this website, including information from people who didn't specify an institution, and details about where resources are coming from. We're working on it.
+
+Feel unrepresented by the data? [Fill out the survey yourself](https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link)and share it with your colleagues.
+
+Want to help? email visionaryfuturescollective@gmail.com
+
+## About the respondents
+
+Our respondents so far have largely been securely employed, and a majority are concerned with childcare, though a number of you have adults or elders who you care for as well. Student workers, as well as contingent and precarious workers, are underrepresented in this survey, perhaps because they don't have time to take it. 
+
+The majority of respondents (about 40%) are caring for one or more child age 6-12, while about 20% are caring for adults.  
+<br>
+<img src="img/caregiver-whofor-10-24.png" alt="Caregiver Age-of-Care Chart" width="500"/>
+<br>
+<br>
+The majority of respondents (about 40%) are tenured faculty, followed by tenure track faculty, administrative staff, or permanent librarians.<br>
+<img src="img/caregiver-jobs-10-24.png" alt="Caregiver Jobs Chart" width="500"/>
+<br>
+<br>
+More than 60% of respondents are in permanent roles, which means their jobs don't have a fixed end date. About twenty percent are on term-limited contracts, while the remainder are precarious (i.e. adjuncting), students, or at-will employees. <br>
+<img src="img/caregiver-security-10-24.png" alt="Caregiver Job Security Chart" width="500"/>
+
+
+
 
 <!-- # Take the Survey!
 
