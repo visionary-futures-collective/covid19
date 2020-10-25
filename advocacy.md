@@ -10,7 +10,7 @@ permalink: /advocacy
 	<div class="container">
 	  <img src="img/caregiver-whofor.png" alt="Avatar" class="image" style="width:100%">
 	  <div class="middle">
-	    <div class="text">While I can do my job from home I don’t think I’ll be allowed to. I feel totally abandoned by the university and like they will just want me to quit, which I can’t afford.</div>
+	    <div class="text"> I feel totally abandoned by the university and like they will just want me to quit, which I can’t afford.</div>
 	  </div>
 	</div>
   </div>
@@ -26,7 +26,7 @@ permalink: /advocacy
 	<div class="container">
 	  <img src="img/caregiver-whofor.png" alt="Avatar" class="image" style="width:100%">
 	  <div class="middle">
-	    <div class="text">Caregiving knows no age boundaries, and can be needed at any time. American policies on family care are not only unfair, but they almost entirely ignore care for ADULTS as a responsibility.</div>
+	    <div class="text">Caregiving knows no age boundaries, and can be needed at any time. American policies on family care ... almost entirely ignore care for ADULTS as a responsibility.</div>
 	  </div>
 	</div>
   </div>
