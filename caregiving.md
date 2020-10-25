@@ -85,7 +85,7 @@ The tables below summarize those responses. Actions taken by more than 1/3 of in
   <thead>
     <tr>
       <th scope="col">Act of support</th>
-      <th scope="col">Percent of institutions taking action a</th>
+      <th scope="col">Percent of institutions taking action</th>
     </tr>
   </thead>
 <tbody>
