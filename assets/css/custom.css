@@ -96,7 +96,7 @@ table {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
-  border: 3px #943126;
+  border: 3px solid red;
 }
 
 thead th:nth-child(1) {
@@ -136,5 +136,5 @@ tbody tr:nth-child(odd) {
 }
 
 tbody tr:nth-child(even) {
-  background-color: #AEB6BF;
+  background-color: #EBEDEF  ;
 }
