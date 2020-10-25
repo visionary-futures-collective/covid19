@@ -101,7 +101,7 @@ The tables below summarize those responses. Actions taken by more than 1/3 of in
 		<td>Option to work fewer hours with the same pay</td>
 		<td>8.26%</td>
 	</tr>
-	<tr style="background-color:#87CEFA">
+	<tr style="background-color:#F0F8FF">
 		<td>Work from home options & flexible work schedules for caregivers</td>
 		<td>68.60%</td>
 	</tr>
