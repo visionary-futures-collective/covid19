@@ -96,7 +96,7 @@ table {
   table-layout: fixed;
   width: 100%;
   border-collapse: collapse;
-  border: 3px solid red;
+  border: 3px solid blue koi;
 }
 
 thead th:nth-child(1) {
