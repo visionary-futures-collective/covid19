@@ -179,15 +179,7 @@ We left a space for further comments and so, so many of you shared heartbreaking
 * "The desperation is real and pressing."
 
 
-<h2>Opacity with Box</h2>
-<p>Hover over the image to see the effect.</p>
 
-<div class="container">
-  <img src="img/caregiver-whofor.png" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-    <div class="text">John Doe</div>
-  </div>
-</div>
 
 
 # 4. About our respondents
