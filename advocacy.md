@@ -242,7 +242,7 @@ permalink: /advocacy
 	<div class="container">
 	  <img src="img/AC/AC-27.png" alt="GRADUATE STUDENT: MISSOURI" class="image" style="width:100%">
 	  <div class="middle">
-	    <div class="text">Deep divides in workplace between fac and staff, unionized and non-union, tenure and untenured, management non-union and rank-and-file non-union.  Suspicious that any care policies are based on the needs of fairly high-up managers.</div>
+	    <div class="text">caring for an ailing and high-covid-risk parent during a pandemic-interrupted PhD program? I feel like I need far more than anything that the concept of "acommodation" can provide.</div>
 	  </div>
 	</div>
   </div>
