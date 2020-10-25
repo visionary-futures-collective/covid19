@@ -141,7 +141,7 @@ tbody tr:nth-child(even) {
 }
 
 thead, tfoot {
-  background: url(img/dots-strip.png);
+  background: url("img/dots-strip.png");
   color: white;
   text-shadow: 1px 1px 1px black;
 }
