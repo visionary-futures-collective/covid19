@@ -7,9 +7,9 @@ permalink: /caregivers
 
 A VFC effort to bring visibility to working conditions for caregivers on campuses during the coronavirus pandemic.
 
-Caregivers are people who have at-home care responsibilities: for children, for parents, for siblings, for partners, for other loved ones. With the collapse of external caregiving resources, like schools, elder-care facilities, and offices, many of them are being asked to shoulder an impossible burden: full-time care and full-time work.
+Caregivers are people who have at-home care responsibilities: for children, for parents, for siblings, for partners, for other loved ones. With the collapse of external caregiving resources, like schools, elder-care facilities, and offices, many of us are being asked to shoulder an impossible burden: full-time care and full-time work.
 
-This project focuses on caregivers working on the students and staff who are serving as caregivers while working on college campuses, from TAs to tenured professors, librarians, adjunct instructors, and administrative staff.  
+This project focuses on the students and staff who are serving as caregivers while working on college campuses, from TAs to tenured professors, librarians, adjunct instructors, and administrative staff.  
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6iRSlr7DJXthJwENxXTjTa3jPiFVqOI9RsNqu-1LZbhw2Xg/viewform?usp=sf_link">Take the survey. </a> View a summary of preliminary results below.
 
