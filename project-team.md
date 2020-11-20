@@ -64,6 +64,7 @@ Our approaches to data draw on the work of Documenting The Now and archivists an
 * Brian DeGrazia
 * Brian Rosenblum
 * Chesya Burke
+* Claire Chenette
 * Dhanashree Thorat
 * Dawn Kaczmar
 * Elizabeth Grumbach
